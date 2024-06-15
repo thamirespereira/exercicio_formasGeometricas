@@ -29,12 +29,3 @@ switch(opcao)
         Console.WriteLine("Opção inválida");
         break;
 }
-
-/*Console.WriteLine("Vamos calcular a área de um retângulo: ");
-retangulo1.CalcularArea();
-Console.WriteLine("-----------------------------------------");
-Console.WriteLine("Vamos calcular a área de um círculo: ");
-circulo1.CalcularArea();
-Console.WriteLine("-----------------------------------------");
-Console.WriteLine("Vamos calcular a área de um triângulo: ");
-triangulo1.CalcularArea();*/
